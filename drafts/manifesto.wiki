@@ -1,5 +1,5 @@
 writing/bbqbike/manifesto.wiki
-Last modified: Tue Jun 23, 2020  08:13PM
+Last modified: Wed Jun 22, 2022  10:45AM
 
 # BBQBicycle Manifesto notes
 
@@ -46,14 +46,18 @@ bicycle nerds have loaded onto bicycling. Bicycling is so much bigger
 and more important than spandex-clad racing, or feats of super-human
 endurance and technical skill, or human-powered eco-alternatives.
 Cycling is bigger than any bicycle "culture" --- in the way that cars
-are bigger than car culture. Many bicycle culture pursuits are indeed
-cool, but two-wheeled vehicles are endowed with a kind of magic, and
-bicycles are the most essential form of that magic. That magic is there
-for everyone, you just need to grab hold of it. And don't be distracted
-or dissuaded by the way fitness bros or unrepentant nerds approach
-bicycles. They know bicycles are magic too, but BBQBicycle is here to
-help find your own way into that magic, not theirs. You don't need to
-partake in cycling culture to love riding.
+are bigger than car culture. Don't think that riding a bicycle will make
+you a 'bike person.' Don't even *let* bicycling become part of your
+identity. Bicycles are bigger than a specific group of 'bike people.'
+There should be a bike for everyone, just like there's a car, phone, or
+toaster. Bikes *should* be a commodity. Many bicycle culture pursuits
+are indeed cool, but two-wheeled vehicles are endowed with a kind of
+magic, and bicycles are the most essential form of that magic. That
+magic is there for everyone, you just need to grab hold of it. And don't
+be distracted or dissuaded by the way fitness bros or unrepentant nerds
+approach bicycles. They know bicycles are magic too, but BBQBicycle is
+here to help find your own way into that magic, not theirs. You don't
+need to partake in cycling culture to love riding.
 
 This series is intended to take someone from having not ridden since
 they were a kid to being a daily rider who is excited to spend many
