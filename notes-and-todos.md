@@ -1,5 +1,5 @@
 bbq-bicycle/notes-and-todos.md
-Last modified: Sun Sep 18, 2022  06:58PM
+Last modified: Sat Oct 01, 2022  11:17AM
 
 # BBQ Bicycle --- Notes and Todos
 * [ ] Build bbq bike on Medium? (write content first)
@@ -23,6 +23,7 @@ Last modified: Sun Sep 18, 2022  06:58PM
 * [ ] Write "How to love riding your bike"
 	This could/should also be part of bbqbike
 * [ ] Add Bonnie&Clyde and jake braking to Urban Dictionary
+* [ ] https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html
 
 
 
