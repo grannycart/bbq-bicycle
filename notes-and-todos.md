@@ -1,13 +1,20 @@
 bbq-bicycle/notes-and-todos.md
-Last modified: Sat Oct 01, 2022  11:17AM
+Last modified: Thu Oct 27, 2022  11:16AM
 
 # BBQ Bicycle --- Notes and Todos
 * [ ] Build bbq bike on Medium? (write content first)
 * [ ] Register bbqbike.net .com
 * [ ] write up the literal bbq bike description (It's a section in the bbq bike topics list)
 * [ ] Finish and submit bicycling in NYC is safe to NY times
-* [ ] "I'm already through the intersection on my sneaker-ready pedals, and you're still trying to get clipped in"
-	* Sometimes racing gear doesn't actually make you faster
+* [ ] Maybe add Some things like:
+	* BBQ bike is good for city riding too:
+		* You get the fastest starts out of a stop light with your low gear:
+			* Cheeses off all the roadies who *always* forget to shift down before coming to a stop
+			* Plus: "I'm already through the intersection on my sneaker-ready pedals, and you're still trying to get clipped in"
+				* Sometimes racing gear doesn't actually make you faster
+		* Keeps your top speed low:
+			* This will almost certainly do more for your safety than a helmet ever will.
+			* Cheeses off all the aholes on electric bikes
 * [ ] Draw your "pedestrian safety" poster
 	Every year X pedestrians are killed in NYC, and X nationwide. The leading cause of traffic deaths in NYC is pedestrians.
 	When you are out walking, make sure you stay safe!
