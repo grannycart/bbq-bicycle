@@ -1,8 +1,12 @@
 bbq-bicycle/notes-and-todos.md
-Last modified: Thu Oct 27, 2022  11:16AM
+Last modified: 2023-04-29 12:34
 
 # BBQ Bicycle --- Notes and Todos
-* [ ] Build bbq bike on Medium? (write content first)
+* [ ] Consider: maybe bbq bicycle shouldn't be a website. (Or at least not a website-first.)
+	* Maybe like other manifestos it should be a short pdf, say 20-40k words, that can be shared around hand-to-hand among those in the know. 
+	* (Perhaps keep in mind formatting it for phone though -- narrow small pages in the pdf? Or maybe give an option in the build to build compile it for phone or letter pages)
+	* Cricket says she would like to illustrate.
+* [-] Build bbq bike on Medium? (write content first) -- I think not.
 * [ ] Register bbqbike.net .com
 * [ ] write up the literal bbq bike description (It's a section in the bbq bike topics list)
 * [ ] Finish and submit bicycling in NYC is safe to NY times
