@@ -1,5 +1,5 @@
 bbq-bicycle/notes-and-todos.md
-Last modified: 2023-04-29 12:34
+Last modified: 2023-05-07 10:24
 
 # BBQ Bicycle --- Notes and Todos
 * [ ] Consider: maybe bbq bicycle shouldn't be a website. (Or at least not a website-first.)
@@ -34,6 +34,12 @@ Last modified: 2023-04-29 12:34
 * [ ] Write "How to love riding your bike"
 	This could/should also be part of bbqbike
 * [ ] Add Bonnie&Clyde and jake braking to Urban Dictionary
+* [ ] Eventually: there should be a bike path running the length of fire island 
+	* right over the route that Moses laid down for his never-built highway
+	* There is no easy and safe way to ride the length of long island, this route would help open that up
+	* As awesome as fire island is, and as much as I would never want to bring cars to it, the majesty of riding withough cars should be accessible to everyone.
+	* I know this could never be done today over the opposition of the rich people who live out there.
+	* And the idea of roadies cranking down the length of the island where people generally ride rusty old beaters is noisome. This might be mitigated with design though: bollards, regular hard turns, etc. The idea is connectivity and distance without cars, not speed.
 * [ ] https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html
 
 
