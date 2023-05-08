@@ -1,7 +1,11 @@
 bbq-bicycle/notes-and-todos.md
-Last modified: 2023-05-07 10:24
+Last modified: 2023-05-07 22:20
 
 # BBQ Bicycle --- Notes and Todos
+* BBQ Bicycle (not barbeque bicycle) because you can do backronyms:
+	* Better Be Quiet
+	* Better Because it's quiet
+* "Today is a fine day to ride!"
 * [ ] Consider: maybe bbq bicycle shouldn't be a website. (Or at least not a website-first.)
 	* Maybe like other manifestos it should be a short pdf, say 20-40k words, that can be shared around hand-to-hand among those in the know. 
 	* (Perhaps keep in mind formatting it for phone though -- narrow small pages in the pdf? Or maybe give an option in the build to build compile it for phone or letter pages)
