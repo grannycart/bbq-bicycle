@@ -1,5 +1,5 @@
 bbq-bicycle/notes-and-todos.md
-Last modified: 2023-05-09 11:42
+Last modified: 2024-03-12 14:03
 
 # BBQ Bicycle --- Notes and Todos
 * BBQ Bicycle (not barbeque bicycle) because you can do backronyms:
@@ -11,7 +11,10 @@ Last modified: 2023-05-09 11:42
 	* (Perhaps keep in mind formatting it for phone though -- narrow small pages in the pdf? Or maybe give an option in the build to build compile it for phone or letter pages)
 	* Cricket says she would like to illustrate.
 * [-] Build bbq bike on Medium? (write content first) -- I think not.
-* [ ] Register bbqbike.net .com
+* [X] Register bbqbike.net .com
+* [ ] snacks:
+    * fritos: for salt, deliciousness, fillingness and calories
+    * sunflower seeds: for salt, giving you something to do
 * [ ] write up the literal bbq bike description (It's a section in the bbq bike topics list)
 * [ ] Finish and submit bicycling in NYC is safe to NY times
 * [ ] Maybe add Some things like:
