@@ -1,5 +1,5 @@
 steps-to-riding-your-bike-and-loving-it.txt
-Last modified: Sat Feb 29, 2020  01:58PM
+Last modified: 2024-04-07 13:43
 
 
 
@@ -45,22 +45,45 @@ a light which way it's going to turn even without a signal. As robot
 cars come into play this will become even more obvious - a lot like
 understanding a video game.]
 
-Also: Learn to RIDE your bike. Many people just pedal until they are
-moving, and then coast. This is fine if you are just doing an
-oceanside ride on a boardwalk, but if you want to get anywhere you
-need to start pedaling more. Not like you need to push yourself until
-you are the edge of your capabilities, but for actually traveling
-somewhere by bicycle, and for making it an effective exercise, you
-need to pedal at about the same exertion level as going on
-a reasonable walk. Basically, you should only be coasting when you are
-slowing down, or traveling downhill. Any time you can put some effort
-into the pedals, you should be turning them. The problem is that bike
-riding is SO easy, that people get on their bike and expect to put out
-the same energy as driving a car --- which is none. Remember that you
-want to be putting out the same energy as a moderate walk. And the
-magic of a bicycle is that it will turn that moderate walk energy into
-a travel distance equivalent to, if not more than, a car (in a dense
-city anyway).
+People are conditioned to getting on a vehicle and telling it to go. (I
+hardly fault them for this, after all we have a tradition now stretching
+back hundreds of years where our vehicles are powered by some force
+that is not us.) But this conditioning does not serve you well with
+a bicycle. You need to rethink your relationship to this particular
+vehicle: for _you_ are the most significant part of the vehicle. You are
+not just the motor, but also the mechanism by which the machine balances
+and turns. This machine is nothing without you on it. (Think about it:
+There's no way to make a remote-controlled bicycle that isn't actually a
+motorcycle.)
+
+The conditioning to press a button (or crack a whip) and zoom off means
+that many people get on a bike, give a couple of pedal strokes, and
+coast, sort of subconsciously hoping that the bicycle will do the rest
+of the work for you. (And, given how efficient of a machine the bicycle
+is, it's not wrong to think of the bike as doing a lot of the work for
+you!) I think this is behind the popularity of e-bikes: _finally_ a
+bike that actually DOES just take off with a few pedal strokes! But
+if you think of yourself as part of the machine --- the part that is
+powering the machine -- you start to understand that actually what you
+want to do is provide near-continuous small amounts of power, with only
+occasional coasting down a hill or along a flat at top speed, just like
+a car would.
+
+Minimal pedaling a coasting along are just fine (and pleasant!) if
+you are just doing an oceanside ride on a boardwalk, but if you want
+to get anywhere you need to start pedaling more. Not like you need to
+push yourself until you are the edge of your capabilities, but for
+actually traveling somewhere by bicycle, and for making it an effective
+exercise, you need to pedal at about the same exertion level as going
+on a reasonable walk. Basically, you should only be coasting when you
+are slowing down, or traveling downhill. Any time you can put some
+effort into the pedals, you should be turning them. The problem is that
+bike riding is SO easy, that people get on their bike and expect to put
+out the same energy as driving a car --- which is none. Remember that
+you want to be putting out the same energy as a moderate walk. And the
+magic of a bicycle is that it will turn that moderate walk energy into a
+travel distance equivalent to, if not more than, a car (in a dense city
+anyway).
 
 On breaking a sweat: You really shouldn't be worried about this. Or
 being sweaty when you arrive at work. If you are breaking a sweat, you
