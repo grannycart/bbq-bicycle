@@ -1,5 +1,5 @@
 bbq-bicycle/notes-and-todos.md
-Last modified: 2024-05-19 15:41
+Last modified: 2024-05-19 15:59
 
 # BBQ Bicycle --- Notes and Todos
 * BBQ Bicycle (not barbeque bicycle) because you can do backronyms:
@@ -10,6 +10,7 @@ Last modified: 2024-05-19 15:41
 	* Maybe like other manifestos it should be a short pdf, say 20-40k words, that can be shared around hand-to-hand among those in the know. 
 	* (Perhaps keep in mind formatting it for phone though -- narrow small pages in the pdf? Or maybe give an option in the build to build compile it for phone or letter pages)
 	* Cricket says she would like to illustrate.
+    * Build as a github pages site that can be compiled as a book/pdf
 * [-] Build bbq bike on Medium? (write content first) -- I think not.
 * [X] Register domains:
     * [X] bbqbike.net
@@ -19,7 +20,7 @@ Last modified: 2024-05-19 15:41
     * fritos: for salt, deliciousness, fillingness and calories
     * sunflower seeds: for salt, giving you something to do
 * [ ] write up the literal bbq bike description (It's a section in the bbq bike topics list)
-* [ ] Finish and submit bicycling in NYC is safe to NY times
+    * If you're hardcore about it: low-geared fixie with drag brake
 * [ ] Maybe add Some things like:
 	* BBQ bike is good for city riding too:
 		* You get the fastest starts out of a stop light with your low gear:
@@ -29,6 +30,12 @@ Last modified: 2024-05-19 15:41
 		* Keeps your top speed low:
 			* This will almost certainly do more for your safety than a helmet ever will.
 			* Cheeses off all the aholes on electric bikes
+* [ ] Write "How to love riding your bike"
+    * See: steps-to-riding-your-bike-and-loving-it.wiki
+    * This could be the first section of bbq bike? (skippable if you already are a cyclist)
+
+## Other stuff to consider
+* [ ] refer to draft of "bicycling in NYC is safe" that was going to NY times
 * [ ] Draw your "pedestrian safety" poster
 	Every year X pedestrians are killed in NYC, and X nationwide. The leading cause of traffic deaths in NYC is pedestrians.
 	When you are out walking, make sure you stay safe!
@@ -41,8 +48,6 @@ Last modified: 2024-05-19 15:41
 		Carry a 12 foot orange flag
 		Carry a can of pepper spray for personal safety and defense.
 		Always cross to the other side of the street from where people are walking
-* [ ] Write "How to love riding your bike"
-	This could/should also be part of bbqbike
 * [ ] Add Bonnie&Clyde and jake braking to Urban Dictionary
 * [ ] Eventually: there should be a bike path running the length of fire island 
 	* right over the route that Moses laid down for his never-built highway
