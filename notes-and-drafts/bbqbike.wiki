@@ -1,5 +1,5 @@
 writing/bbqbike/bbqbike.wiki
-Last modified: Wed Mar 02, 2022  10:17PM
+Last modified: 2024-06-04 11:46
 
 
 # BBQBicycle --- Sections and notes
@@ -12,31 +12,19 @@ Last modified: Wed Mar 02, 2022  10:17PM
 	* not just the technical aspects of how the bike should be built
 	* but also the _spirit_ of bbq: sitting around drinking beer, maybe smoking a cigar (I'm not saying you SHOULD do these things while riding your bicycle, but that could COULD.)
 	* Relaxed riding, daydreaming, the freedom of mind that comes from having a simple outdoor task (bbq, riding) that doesn't take too much effort and allows your mind to wander.
-	* Too man people, both inexperienced and experienced riders, think riding is about strenuous exercise. Which it can be if you make it that. But it can also be about spending many hours straight on a nice day outside toodling along. Just like sitting next to a smoker and tending the meat... ideally you have a friend doing that for dinner when you get home!
+	* Too many people, both inexperienced and experienced riders, think riding is about strenuous exercise. Which it can be if you make it that. But it can also be about spending many hours straight on a nice day outside toodling along. Just like sitting next to a smoker and tending the meat... ideally you have a friend doing that for dinner when you get home!
 * More people looking for a cheap way to exercise?
-* economic stone
 * perhaps even more of an audience/demand than for cities?
 	not quite the demand for food writing, but it's there?
 	On the other hand, there are already a lot of bicycle writers out there
 	On the plus side, this stuff should be easy to write, and can be used as published examples for applying to jobs
 * Add this to notes in writing todos, or meta, wherever that stuff is about food writers
-* Think about starting bbqbike on Medium
-	Though you need to carefully think about the first essay
-	It should be REALLY good, to get people hooked
-	And address their desire to do something during covid
-	"It's time for you to learn to ride your bike --- alone"
-	Cover what you need to know to ride alone with confidence
-		(not much really - fix a flat, adjust barrel adjusters)
-	Cover the joys of riding along (thinking!) and move from there into the bbq bike
 * Lines beginging with a + [ ] are actual sentence framings
 * Ideally, each of these should be about 700 words
 	* ~2.5 minutes to read 700 words
 	* 10 minutes to read 2000 words
 * Logo: a person riding a steel bike with a basket and a saddlebag and 1-1 gear uphill
 * Put a short paragraph at the top (of every entry?) That explains the idea and links to the TOC. And brands the concept.
-* Make All of the initial articles in front of the paywall and open source
-	* Put following articles behind a paywall... if that will do anything for you
-* Put all the initial articles into one file to make cross editing easier
 
 
 ## Sections:
