@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2024-06-21 14:26
+# Last modified: 2024-06-21 15:01
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -13,7 +13,7 @@ METADATA = metadata.yaml
 # List of chapter files, in order, separated by a space.
 CHAPTERS = content/introduction.md 
 # Similarly the license file's relation to CONTACT changes depending on format, so it too gets its own pandoc variable:
-LICENSE = LICENSE.txt
+LICENSE = LICENSE
 # I think the cover pic works better if you use a .png or a .jpg -- only used in epub
 COVER_IMAGE = content/blue-cog.png
 # While it seems like it would make sense to use 'book' for LATEX_CLASS,
