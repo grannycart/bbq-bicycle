@@ -1,6 +1,5 @@
 ---
 layout: page
-title: chap II (test)
 ---
 
 # Riding and thinking

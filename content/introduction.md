@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Introduction (test)
 ---
 
 # conan, mice, bicycles
