@@ -3,21 +3,20 @@ layout: page
 ---
 
 
-# BBQBicycle --- First draft
+## BBQBicycle --- First draft
 by: Rotwang
 
 ## TOC
-* [Manifesto](#manifesto)
-* [Step 1: Go on Vacation](#vacation)
-* [Riding and Thinking](#thinking)
-* [Low and slow is the way to go](#lowandslow)
-* [What bike should you ride?](#whatbike)
-* [What to know before you go](#whattoknow)
+* [Manifesto](#Manifesto)
+* [Step 1: Go on Vacation](#step-1-go-on-vacation)
+* [Riding and Thinking](#riding-and-thinking)
+* [Low and slow is the way to go](#low-and-slow-is-the-way-to-go])
+* [What bike should you ride?](#what-bike-should-you-ride)
+* [What to know before you go](#what-to-know-before-you-go)
 
 
 
 ## Manifesto 
-:manifesto:
 I am fundamentally a lazy daydreamer. Like most adults, there are many
 demands on my time, and most of those demands I would rather actually
 not be doing. For many of them I happily escape by daydreaming about
@@ -107,7 +106,6 @@ go low and slow.
 
 
 ## Step 1: Go on Vacation
-:vacation:
 
 This entry is for the person who hasn't been on a bicycle since they
 were a kid. The basic principles of BBQBicycle can apply to any rider,
@@ -195,7 +193,6 @@ just make our lives much more fun to live.
 
 
 ## Riding and Thinking
-:thinking:
 
 It is a cliche that people get some of their best thinking done in the
 shower. And I'm not going to argue with that cliche. It's cliche
@@ -285,7 +282,6 @@ reward of the BBQBicycle.
 
 
 ## Low and slow is the way to go
-:lowandslow:
 
 The thing that makes it a BBQBicycle is very simple: it's a good bike
 for riding slow. This is achieved by a combination of two things:
@@ -360,7 +356,6 @@ city anyway).
 
 
 ## What bike should you ride?
-:whatbike:
 
 Now you have a sense of _why_ BBQBicycle might be for you. But _how__
 do you actually do it?
