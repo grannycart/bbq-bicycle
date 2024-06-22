@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2024-06-21 15:13
+# Last modified: 2024-06-22 18:37
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -11,7 +11,7 @@ BOOKNAME = BBQ-Bike
 # Metadata contains title and other info:
 METADATA = metadata.yaml
 # List of chapter files, in order, separated by a space.
-CHAPTERS = content/introduction.md content/chap2-test.md
+CHAPTERS = content/BBQbike-first_draft.md 
 # Similarly the license file's relation to CONTACT changes depending on format, so it too gets its own pandoc variable:
 LICENSE = LICENSE
 # I think the cover pic works better if you use a .png or a .jpg -- only used in epub

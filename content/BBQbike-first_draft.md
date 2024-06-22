@@ -3,17 +3,6 @@ layout: page
 ---
 
 
-by: Rotwang
-
-## TOC
-* [Manifesto](#manifesto)
-* [Step 1: Go on Vacation](#step-1-go-on-vacation)
-* [Riding and Thinking](#riding-and-thinking)
-* [Low and slow is the way to go](#low-and-slow-is-the-way-to-go)
-* [What bike should you ride?](#what-bike-should-you-ride)
-* [What to know before you go](#what-to-know-before-you-go)
-
-
 
 ## Manifesto 
 I am fundamentally a lazy daydreamer. Like most adults, there are many
