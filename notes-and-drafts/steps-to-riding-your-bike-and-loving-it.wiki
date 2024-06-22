@@ -1,5 +1,5 @@
 steps-to-riding-your-bike-and-loving-it.txt
-Last modified: 2024-04-07 13:43
+Last modified: 2024-06-22 16:27
 
 
 
@@ -95,8 +95,9 @@ Three exceptions to the just ride slower rule: 1. on a hot day, you're
 going to be sweaty. So is everyone else. If you had walked to work you
 would be sweaty too. This isn't the bicycle's fault, don't associate
 it with the bicycle, associate it with the heat. 2. You might be so
-out of shape that even a moderate walk causes you to break a sweat. If
-this is the case you have a problem that is much bigger than just
+out of shape that even a moderate walk causes you to break a sweat. 
+[re-write this bit to acknowledge some people are just sweaty]
+If this is the case you have a problem that is much bigger than just
 arriving sweaty at work. You need to get in shape or you are going to
 die. Arriving sweaty at work is the least of your problems, and if you
 start riding (or walking) to work you should overcome this pretty

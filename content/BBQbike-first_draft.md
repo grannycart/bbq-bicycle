@@ -1,7 +1,9 @@
-writing/bbqbike/BBQBicycle-first_draft-free_sections.wiki  
-Last modified: Tue Jun 23, 2020  08:21PM
+---
+layout: page
+---
 
-# BBQBicycle --- Free Sections --- First draft
+
+# BBQBicycle --- First draft
 by: Rotwang
 
 ## TOC
