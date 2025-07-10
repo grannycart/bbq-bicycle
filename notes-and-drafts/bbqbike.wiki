@@ -1,5 +1,5 @@
 writing/bbqbike/bbqbike.wiki
-Last modified: 2024-06-04 11:46
+Last modified: 2025-07-10 17:43
 
 
 # BBQBicycle --- Sections and notes
@@ -13,6 +13,7 @@ Last modified: 2024-06-04 11:46
 	* but also the _spirit_ of bbq: sitting around drinking beer, maybe smoking a cigar (I'm not saying you SHOULD do these things while riding your bicycle, but that could COULD.)
 	* Relaxed riding, daydreaming, the freedom of mind that comes from having a simple outdoor task (bbq, riding) that doesn't take too much effort and allows your mind to wander.
 	* Too many people, both inexperienced and experienced riders, think riding is about strenuous exercise. Which it can be if you make it that. But it can also be about spending many hours straight on a nice day outside toodling along. Just like sitting next to a smoker and tending the meat... ideally you have a friend doing that for dinner when you get home!
+* Decide if you want to have a tone of directly addressing the reader ("you") or more generalized. (More generalized would feel more like a manifesto. But maybe would be less accessible.)
 * More people looking for a cheap way to exercise?
 * perhaps even more of an audience/demand than for cities?
 	not quite the demand for food writing, but it's there?
@@ -25,6 +26,18 @@ Last modified: 2024-06-04 11:46
 	* 10 minutes to read 2000 words
 * Logo: a person riding a steel bike with a basket and a saddlebag and 1-1 gear uphill
 * Put a short paragraph at the top (of every entry?) That explains the idea and links to the TOC. And brands the concept.
+* Our sense of bicycles is warped by cars, and you need to un-warp it:
+	* People who rarely ride bikes often get on a bicycle and start peddaling and then sort-of instinctively expect the bike to do the work. Then they coast for a bit, and are almost shocked or even resentful that they have to pedal again. It's not a car (and hopefully not an personal e-vehicle), it's like walking: you have to keep pedaling almost continuously.
+	* On the other end, people who ride regularly have almost an instinctive desire to go at the speed of traffic. Instead of finding a nice easy cadence (about the same effort as a walk -- especially in hot weather!) they push on until they are moving with the effort of a brisk run (and sweating like a hog).
+* The trick to hot weather is to ride slower:
+	* keep the effort to a minimum
+	* Even slow riding will only make a 5-10 minute difference to a half-hour commute. Worth leaving slightly earlier to arrive not drenched in sweat!
+	* Unlike walking or running, On a bicycle you get a big return in breeze for a slight output in effort -- it's actually perfect for heat.
+* The trick to cold weather is goggles, gloves, and a windbreaker over wooly layers.
+	* Maybe a few other bits of gear
+	* keep a set of chemical handwarmers in your bag in winter!
+	* Avoid 30-40 degrees raining or sleet. Snow is mostly fine, (until it isn't).
+	* Ride faster to get warmer!
 
 
 ## Sections:
@@ -179,6 +192,7 @@ by: Rotwang
 	* If a hill is hard, it is because you are trying too hard
 		* (which might be because you don't have the right gearing)
 	* You have all day to ride up the hill --- but it won't take that long. Imagine how long it will take if you were walking up it --- because on a bike it will be faster than that. And it should be easier too.
+	* The steeper the hill, the shorter it has to be.
 * and gearing.
 * Get these right, and they are easy.
 * Do not exceed 60% of your heart rate --- unless you want to!
@@ -247,7 +261,7 @@ by: Rotwang
 ### Exercise 
 * What if you WANT to make cycling an exercise? After all, it's really good for that
 * Then the only rule is: get your heart rate up
-	* Stretching isn't exercise (see outdoor article)
+	* Stretching isn't exercise (see Outside article)
 		* Yoga might be nice, but it isn't exercise
 	* cycling CAN be exercise, but you have to work at it
 * It's nice to build muscle too, but it's cardio that really matters for health
