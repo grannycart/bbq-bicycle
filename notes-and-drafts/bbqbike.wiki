@@ -1,5 +1,5 @@
 writing/bbqbike/bbqbike.wiki
-Last modified: 2025-07-10 17:43
+Last modified: 2025-07-11 20:05
 
 
 # BBQBicycle --- Sections and notes
@@ -29,6 +29,10 @@ Last modified: 2025-07-10 17:43
 * Our sense of bicycles is warped by cars, and you need to un-warp it:
 	* People who rarely ride bikes often get on a bicycle and start peddaling and then sort-of instinctively expect the bike to do the work. Then they coast for a bit, and are almost shocked or even resentful that they have to pedal again. It's not a car (and hopefully not an personal e-vehicle), it's like walking: you have to keep pedaling almost continuously.
 	* On the other end, people who ride regularly have almost an instinctive desire to go at the speed of traffic. Instead of finding a nice easy cadence (about the same effort as a walk -- especially in hot weather!) they push on until they are moving with the effort of a brisk run (and sweating like a hog).
+	* (something like) "perceived speed" vs actual speed:
+		* The incorrect notion that bicycles should move at the speed of traffic
+		* The incorrect notion that bicycles should move themselves
+		* The misunderstanding that the _average_ speed of a bicycle across a city is often the _fastest_ way to get around a city (typically matching or beating out both cars and transit)
 * The trick to hot weather is to ride slower:
 	* keep the effort to a minimum
 	* Even slow riding will only make a 5-10 minute difference to a half-hour commute. Worth leaving slightly earlier to arrive not drenched in sweat!
@@ -38,6 +42,13 @@ Last modified: 2025-07-10 17:43
 	* keep a set of chemical handwarmers in your bag in winter!
 	* Avoid 30-40 degrees raining or sleet. Snow is mostly fine, (until it isn't).
 	* Ride faster to get warmer!
+* Introduction:
+	* Explain that this book is divied into (at least) two parts: 1. for people who have never really ridden, to start at the beginning and 2. for people who already ride, thinkng about a new way to approach cycling
+	* This book comes from a wholly unusal approach to cycling:
+		* slower is better
+		* cars have warped people's perspective of how bicycles should work
+* e-bikes are not bicycles
+	* (See drafted email to dad)
 
 
 ## Sections:
