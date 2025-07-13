@@ -1,5 +1,5 @@
 bbq-bicycle/notes-and-todos.md
-Last modified: 2024-06-22 16:30
+Last modified: 2025-07-13 16:16
 
 # BBQ Bicycle --- Notes and Todos
 * BBQ Bicycle (not barbeque bicycle) because you can do backronyms:
@@ -26,6 +26,8 @@ Last modified: 2024-06-22 16:30
 			* Cheeses off all the aholes on electric bikes
 * [ ] Write "How to love riding your bike"
 * [ ] https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html
+* [ ] reach out to that worlds-fastest-women land-speed record for bicycle holder, and get an endorsement from her
+
 
 ## Other bike stuff:
 * [ ] there should be a bike path running the length of fire island 
