@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2024-06-22 18:37
+# Last modified: 2025-07-13 18:42
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -27,16 +27,18 @@ CSS = css/clean-html.css
 # This line uses the -M switch to override the 'rights' field in metadata.yaml and puts a version date into the compiled pandoc file. 
 # (has to go here to run on the command line so it can use the 'date' command from Linux)
 # The default setup puts in today's date automatically:
-RIGHTS = "(Version-date: `date "+%B %e, %Y"`) © 2024 Mark Torrey, CC BY-NC-SA" 
+RIGHTS = "(Version-date: `date "+%B %e, %Y"`) © 2025 Mark Torrey, CC BY-NC-SA" 
 
 all: book
 
-book: epub pdf latex txt md 
+book: epub html pdf md 
 
 clean:
 	rm -rfd $(BUILD)
 
 epub: $(BUILD)/epub/$(BOOKNAME).epub
+
+html: $(BUILD)/html/$(BOOKNAME).html
 
 pdf: $(BUILD)/pdf/$(BOOKNAME).pdf
 
@@ -54,26 +56,20 @@ $(BUILD)/epub/$(BOOKNAME).epub: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $
 # 	After generating, use epubcheck tool (available on linux distros) to check the epub file
 	pandoc --css=css/epub.css --toc-depth=2 -M rights=$(RIGHTS) --epub-cover-image=$(COVER_IMAGE) -o $@ $^
 
+$(BUILD)/html/$(BOOKNAME).html: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
+	mkdir -p $(BUILD)/html
+#	The html is formatted by css to be a clean web page. See file in css/
+#	--embed-resources requires at least pandoc 2.19
+#	"rights" is set as date for htmlso it gets printed on first page as part of title block 
+#	-s, --standalone is set automatically for epub and pdf/latex, but not for html:
+	pandoc --toc --toc-depth=2 --css=$(CSS) --embed-resources --standalone -M date=$(RIGHTS) --to=html5 -o $@ $^
+
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/pdf
 #	Below with some latex options (-V) added.
 #	"rights" metadata set as "date" latex field here so it gets printed on first page as part of title block
 #	xelatex engine is necessary to process unicode character I used for section breaks
 	pandoc -s --toc --toc-depth=2 --from markdown+smart --pdf-engine=xelatex -V date=$(RIGHTS) -V documentclass=$(LATEX_CLASS) -V papersize=letter -o $@ $^
-
-$(BUILD)/latex/$(BOOKNAME).tex: $(METADATA) $(CHAPTERS) $(LICENSE) $(CONTACT)
-	mkdir -p $(BUILD)/latex
-#	I use this target for prepping for paper version of the book 
-#	(so, scrbook latex class is used here and page it set to 5.5x8.25)
-#	Below with some latex options (-V) added.
-#	5.5x8.25 is the book size for B&N. Other publishers need different sizes. See paper production directory.
-#	"rights" metadata set as "date" latex field here so it gets printed on first page as part of title block
-#	the inner and outer geometry settings are the only way I could figure out to eliminate the stupid fucking Latex 'margin notes' space
-	pandoc -s --from markdown+smart --toc-depth=2 --top-level-division=chapter -V date=$(RIGHTS) -V documentclass=scrbook -V geometry:inner=2cm -V geometry:outer=1.5cm -V geometry:paperwidth=5.5in -V geometry:paperheight=8.25in -o $@ $^
-
-$(BUILD)/txt/$(BOOKNAME).txt: $(METADATA) $(CHAPTERS) $(LICENSE)
-	mkdir -p $(BUILD)/txt
-	pandoc -s --from markdown+smart --toc-depth=2 -M rights=$(RIGHTS) -o $@ $^
 
 $(BUILD)/markdown/$(BOOKNAME).md: $(METADATA) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/markdown
@@ -82,4 +78,4 @@ $(BUILD)/markdown/$(BOOKNAME).md: $(METADATA) $(CHAPTERS) $(LICENSE)
 	pandoc -s --from markdown+smart --toc-depth=2 -M rights=$(RIGHTS) --to=markdown -o $@ $^
 
 
-.PHONY: all book clean epub pdf latex txt md
+.PHONY: all book clean epub html pdf md
