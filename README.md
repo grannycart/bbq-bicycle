@@ -6,8 +6,9 @@ A different, chiller, approach to riding a bicycle.
 
 
 ## Note:
-* css/ dir goes with Makefile for compiling epub
-* sass/ goes with github pages for stylizing web page
+* This is the `main` git branch that contains the content of the book.
+* See also the `pages` branch for the github pages.
+* css/ dir goes with Makefile for compiling epub.
 
 ## License:
 * Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
