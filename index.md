@@ -6,8 +6,6 @@ First, know that the BBQ Bike is a bicycle --- not a motorcycle, not an e-bike, 
 
 The BBQ bike is different. The goal is to get you on your bicycle and riding without expending any more effort (or concentration) than you would if you were on a casual walk. The magic of the bicycle is that it can take the energy expenditure of a causal walk and transport your many many miles further. With a BBQ bike you spend more time on your bike, and have more fun doing it. It's a somewhat subtle kind of fun,[^2] the kind of fun that comes to a meditative, mature person who is willing to engage in quiet reflection. But it's a _lasting_ fun: something you can do for your whole life. And it pays rewards in health as a bonus. In many ways, it's a kind of _perfect_ fun, something that makes you feel like you aren't wasting your life. We probably all need a little more of that.
 
-[BBQ Bike TOC](content/toc)
-
 [^1]: If you want to go fast, get a motorcycle. The pleasures of speed are real, so go to the source.
 [^2]: If you want death-defying excitement, get a motorcycle. The pleasures of taking risk are real too, so go to the source.
 
