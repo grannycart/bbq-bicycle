@@ -1,5 +1,5 @@
 bbq-bicycle/notes-and-todos.md
-Last modified: 2025-07-13 16:16
+Last modified: 2025-07-15 19:06
 
 # BBQ Bicycle --- Notes and Todos
 * BBQ Bicycle (not barbeque bicycle) because you can do backronyms:
@@ -27,6 +27,16 @@ Last modified: 2025-07-13 16:16
 * [ ] Write "How to love riding your bike"
 * [ ] https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html
 * [ ] reach out to that worlds-fastest-women land-speed record for bicycle holder, and get an endorsement from her
+* [ ] What about racing? Should I do that?
+	* If riding fast is truly your jam, go for it! Racing is awesome.
+	* But here too, be aware that cars are warping your sense of speed: you probably aren't riding nearly as fast as you think you are. If you think you are goind "maybe 30 mph" get yourself a speedometer and a dose of reality. (If you find you _can_ hit 30mph without trying too hard, you should go pro!)
+	* But also remember that there's about a 1000 other ways to be with bicycles than racing.
+* [ ] How fast should I ride?
+	* You might find that your average speed is about 10mph. You might be thinking: wow, that's slow. But here, check out this map of everywhere in NYC you could get to in an hour:
+		* (Add black and white map of range of 10 mile range in NYC)
+	* That's almost exactly the same speed as taking the subway!
+	* But it works in the country too. (add a map of an interesting rural area with a 10 mile range -- maybe Nova Scotia?)
+	* Here too cars are warping your sense of speed. (maybe reference top vs average speed dichotomy here)
 
 
 ## Other bike stuff:
