@@ -1,5 +1,5 @@
 # Makefile
-# Last modified: 2025-07-13 18:42
+# Last modified: 2025-07-21 20:53
 #
 # This Makefile modified from original maintainer at:
 # https://github.com/evangoer/pandoc-ebook-template
@@ -22,8 +22,6 @@ COVER_IMAGE = content/blue-cog.png
 # 'report' puts in annoying chapter numbers that I can't figure out how to get rid of with pandoc.
 # This document is fairly simple, so 'article' works well --- though see notes in README.md on compiling.
 LATEX_CLASS = article
-# This corresponds to the --css switch in the pandoc command:
-CSS = css/clean-html.css
 # This line uses the -M switch to override the 'rights' field in metadata.yaml and puts a version date into the compiled pandoc file. 
 # (has to go here to run on the command line so it can use the 'date' command from Linux)
 # The default setup puts in today's date automatically:
@@ -61,14 +59,15 @@ $(BUILD)/html/$(BOOKNAME).html: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $
 #	The html is formatted by css to be a clean web page. See file in css/
 #	--embed-resources requires at least pandoc 2.19
 #	"rights" is set as date for htmlso it gets printed on first page as part of title block 
+# 	The --css references a simple css file used for formatting the html as a simple clean web page without being the plainest of plain html.
 #	-s, --standalone is set automatically for epub and pdf/latex, but not for html:
-	pandoc --toc --toc-depth=2 --css=$(CSS) --embed-resources --standalone -M date=$(RIGHTS) --to=html5 -o $@ $^
+	pandoc --css=css/clean-html.css --toc --toc-depth=2 --css=$(CSS) --embed-resources --standalone -M date=$(RIGHTS) --to=html5 -o $@ $^
 
 $(BUILD)/pdf/$(BOOKNAME).pdf: $(METADATA) $(CONTACT) $(DIAGRAMS) $(CHAPTERS) $(LICENSE)
 	mkdir -p $(BUILD)/pdf
 #	Below with some latex options (-V) added.
 #	"rights" metadata set as "date" latex field here so it gets printed on first page as part of title block
-#	xelatex engine is necessary to process unicode character I used for section breaks
+# 	xelatex engine is necessary to process unicode character I used for section breaks
 	pandoc -s --toc --toc-depth=2 --from markdown+smart --pdf-engine=xelatex -V date=$(RIGHTS) -V documentclass=$(LATEX_CLASS) -V papersize=letter -o $@ $^
 
 $(BUILD)/markdown/$(BOOKNAME).md: $(METADATA) $(CHAPTERS) $(LICENSE)
