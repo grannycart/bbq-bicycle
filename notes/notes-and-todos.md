@@ -1,42 +1,34 @@
-bbq-bicycle/notes-and-todos.md
-Last modified: 2025-07-15 19:06
+notes-and-todos.md
+Last modified: 2025-07-21 21:44
 
 # BBQ Bicycle --- Notes and Todos
-* BBQ Bicycle (not barbeque bicycle) because you can do backronyms:
-	* Better Be Quiet
-	* Better Because it's quiet
-* "Today is a fine day to ride!"
+
+
+## Production notes
 * [ ] Consider: maybe bbq bicycle shouldn't be a website. (Or at least not a website-first.)
 	* Maybe like other manifestos it should be a short pdf, say 20-40k words, that can be shared around hand-to-hand among those in the know. 
 	* (Perhaps keep in mind formatting it for phone though -- narrow small pages in the pdf? Or maybe give an option in the build to build compile it for phone or letter pages)
 	* Cricket says she would like to illustrate.
 * [X] Register bbqbike.net .com
-* [ ] snacks:
-    * fritos: for salt, deliciousness, fillingness and calories
-    * sunflower seeds: for salt, giving you something to do
-* [ ] write up the literal bbq bike description (It's a section in the bbq bike topics list)
-* [ ] Maybe add Some things like:
-	* BBQ bike is good for city riding too:
-		* You get the fastest starts out of a stop light with your low gear:
-			* Cheeses off all the roadies who *always* forget to shift down before coming to a stop
-			* Plus: "I'm already through the intersection on my sneaker-ready pedals, and you're still trying to get clipped in"
-				* Sometimes racing gear doesn't actually make you faster
-		* Keeps your top speed low:
-			* This will almost certainly do more for your safety than a helmet ever will.
-			* Cheeses off all the aholes on electric bikes
-* [ ] Write "How to love riding your bike"
-* [ ] https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html
+* Decide if you want to have a tone of directly addressing the reader ("you") or more generalized. (More generalized would feel more like a manifesto. But maybe would be less accessible.)
+* perhaps even more of an audience/demand than for cities?
+	* not quite the demand for food writing, but it's there?
+	* On the other hand, there are already a lot of bicycle writers out there
+	* On the plus side, this stuff should be easy to write, and can be used as published examples for applying to jobs
+	* Add this to notes in writing todos, or meta, wherever that stuff is about food writers
+* Lines beginging with a + [ ] are actual sentence framings
+* Ideally, each of these should be about 700 words
+	* ~2.5 minutes to read 700 words
+	* 10 minutes to read 2000 words
+* Logo: a person riding a steel bike with a basket and a saddlebag and 1-1 gear uphill
+* Put a short paragraph at the top (of every entry?) That explains the idea and links to the TOC. And brands the concept.
+
+## Promotion
+* BBQ Bicycle (not barbeque bicycle) because you can do backronyms:
+	* Better Be Quiet
+	* Better Because it's quiet
+* "Today is a fine day to ride!"
 * [ ] reach out to that worlds-fastest-women land-speed record for bicycle holder, and get an endorsement from her
-* [ ] What about racing? Should I do that?
-	* If riding fast is truly your jam, go for it! Racing is awesome.
-	* But here too, be aware that cars are warping your sense of speed: you probably aren't riding nearly as fast as you think you are. If you think you are goind "maybe 30 mph" get yourself a speedometer and a dose of reality. (If you find you _can_ hit 30mph without trying too hard, you should go pro!)
-	* But also remember that there's about a 1000 other ways to be with bicycles than racing.
-* [ ] How fast should I ride?
-	* You might find that your average speed is about 10mph. You might be thinking: wow, that's slow. But here, check out this map of everywhere in NYC you could get to in an hour:
-		* (Add black and white map of range of 10 mile range in NYC)
-	* That's almost exactly the same speed as taking the subway!
-	* But it works in the country too. (add a map of an interesting rural area with a 10 mile range -- maybe Nova Scotia?)
-	* Here too cars are warping your sense of speed. (maybe reference top vs average speed dichotomy here)
 
 
 ## Other bike stuff:
@@ -63,6 +55,12 @@ Last modified: 2025-07-15 19:06
 		Always cross to the other side of the street from where people are walking
 * [ ] Add Bonnie&Clyde and jake braking to Urban Dictionary
 * [ ] Finish and submit bicycling in NYC is safe to NY times
+	* [ ] (or at least re-read drafts, maybe they should be included here?)
+* Mauna Kea
+	* Like the Dopesmoker of bicycle rides --- the lowest and the slowest
+	* Ride Fuji: change out front chainring to a 22t 1:1? Would that do it? Test in the catskills
+	* Always wanted to go to Hawaii, but didn't want to be a tourist. (Well, I AM a tourist, but of a different stripe.)
+	* Description of the ride from Hilo to Mauna Kea
 
 
 

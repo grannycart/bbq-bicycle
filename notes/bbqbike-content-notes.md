@@ -1,38 +1,37 @@
-writing/bbqbike/bbqbike.wiki
-Last modified: 2025-07-11 20:05
+bbqbike-content-notes.md
+Last modified: 2025-07-21 21:49
 
 
-# BBQBicycle --- Sections and notes
+# BBQ Bicycle --- Sections and notes on content
 
-## Drafts:
-* [BBQBicycle-first_draft-free_sections](BBQBicycle-first_draft-free_sections)
-
-## Notes:
-* Things to add from 2022 riding around and thinking about this:
-	* not just the technical aspects of how the bike should be built
-	* but also the _spirit_ of bbq: sitting around drinking beer, maybe smoking a cigar (I'm not saying you SHOULD do these things while riding your bicycle, but that could COULD.)
+## Ideas for things to include (not sure where yet)
+* not just the technical aspects of how the bike should be built, but also the _spirit_ of bbq: 
+	* sitting around drinking beer, maybe smoking a cigar (I'm not saying you SHOULD do these things while riding your bicycle, but that could COULD.)
 	* Relaxed riding, daydreaming, the freedom of mind that comes from having a simple outdoor task (bbq, riding) that doesn't take too much effort and allows your mind to wander.
 	* Too many people, both inexperienced and experienced riders, think riding is about strenuous exercise. Which it can be if you make it that. But it can also be about spending many hours straight on a nice day outside toodling along. Just like sitting next to a smoker and tending the meat... ideally you have a friend doing that for dinner when you get home!
-* Decide if you want to have a tone of directly addressing the reader ("you") or more generalized. (More generalized would feel more like a manifesto. But maybe would be less accessible.)
+* Introduction:
+	* Explain that this book is divied into (at least) two parts: 1. for people who have never really ridden, to start at the beginning and 2. for people who already ride, thinkng about a new way to approach cycling
+	* This book comes from a wholly unusal approach to cycling:
+		* slower is better
+		* cars have warped people's perspective of how bicycles should work
+* e-bikes are not bicycles
+	* (See drafted email to dad)
+* snacks:
+	* fritos: for salt, deliciousness, fillingness and calories
+	* sunflower seeds: for salt, giving you something to do
+* [ ] write up the literal bbq bike description (It's a section in the bbq bike topics list)
+* [ ] Maybe add Some things like:
+	* BBQ bike is good for city riding too:
+		* You get the fastest starts out of a stop light with your low gear:
+			* Cheeses off all the roadies who *always* forget to shift down before coming to a stop
+			* Plus: "I'm already through the intersection on my sneaker-ready pedals, and you're still trying to get clipped in"
+				* Sometimes racing gear doesn't actually make you faster
+		* Keeps your top speed low:
+			* This will almost certainly do more for your safety than a helmet ever will.
+			* Cheeses off all the aholes on electric bikes
+* [ ] Write "How to love riding your bike"
+* [ ] https://www.nytimes.com/2022/09/30/well/move/how-hard-workout.html
 * More people looking for a cheap way to exercise?
-* perhaps even more of an audience/demand than for cities?
-	not quite the demand for food writing, but it's there?
-	On the other hand, there are already a lot of bicycle writers out there
-	On the plus side, this stuff should be easy to write, and can be used as published examples for applying to jobs
-* Add this to notes in writing todos, or meta, wherever that stuff is about food writers
-* Lines beginging with a + [ ] are actual sentence framings
-* Ideally, each of these should be about 700 words
-	* ~2.5 minutes to read 700 words
-	* 10 minutes to read 2000 words
-* Logo: a person riding a steel bike with a basket and a saddlebag and 1-1 gear uphill
-* Put a short paragraph at the top (of every entry?) That explains the idea and links to the TOC. And brands the concept.
-* Our sense of bicycles is warped by cars, and you need to un-warp it:
-	* People who rarely ride bikes often get on a bicycle and start peddaling and then sort-of instinctively expect the bike to do the work. Then they coast for a bit, and are almost shocked or even resentful that they have to pedal again. It's not a car (and hopefully not an personal e-vehicle), it's like walking: you have to keep pedaling almost continuously.
-	* On the other end, people who ride regularly have almost an instinctive desire to go at the speed of traffic. Instead of finding a nice easy cadence (about the same effort as a walk -- especially in hot weather!) they push on until they are moving with the effort of a brisk run (and sweating like a hog).
-	* (something like) "perceived speed" vs actual speed:
-		* The incorrect notion that bicycles should move at the speed of traffic
-		* The incorrect notion that bicycles should move themselves
-		* The misunderstanding that the _average_ speed of a bicycle across a city is often the _fastest_ way to get around a city (typically matching or beating out both cars and transit)
 * The trick to hot weather is to ride slower:
 	* keep the effort to a minimum
 	* Even slow riding will only make a 5-10 minute difference to a half-hour commute. Worth leaving slightly earlier to arrive not drenched in sweat!
@@ -42,13 +41,28 @@ Last modified: 2025-07-11 20:05
 	* keep a set of chemical handwarmers in your bag in winter!
 	* Avoid 30-40 degrees raining or sleet. Snow is mostly fine, (until it isn't).
 	* Ride faster to get warmer!
-* Introduction:
-	* Explain that this book is divied into (at least) two parts: 1. for people who have never really ridden, to start at the beginning and 2. for people who already ride, thinkng about a new way to approach cycling
-	* This book comes from a wholly unusal approach to cycling:
-		* slower is better
-		* cars have warped people's perspective of how bicycles should work
-* e-bikes are not bicycles
-	* (See drafted email to dad)
+* What about racing? Should I do that?
+	* If riding fast is truly your jam, go for it! Racing is awesome.
+	* But here too, be aware that cars are warping your sense of speed: you probably aren't riding nearly as fast as you think you are. If you think you are goind "maybe 30 mph" get yourself a speedometer and a dose of reality. (If you find you _can_ hit 30mph without trying too hard, you should go pro!)
+	* But also remember that there's about a 1000 other ways to be with bicycles than racing.
+* How fast should I ride?
+	* You might find that your average speed is about 10mph. You might be thinking: wow, that's slow. But here, check out this map of everywhere in NYC you could get to in an hour:
+		* (Add black and white map of range of 10 mile range in NYC)
+	* That's almost exactly the same speed as taking the subway!
+	* But it works in the country too. (add a map of an interesting rural area with a 10 mile range -- maybe Nova Scotia?)
+	* Here too cars are warping your sense of speed. (maybe reference top vs average speed dichotomy here)
+* Our sense of bicycles is warped by cars, and you need to un-warp it:
+	* People who rarely ride bikes often get on a bicycle and start peddaling and then sort-of instinctively expect the bike to do the work. Then they coast for a bit, and are almost shocked or even resentful that they have to pedal again. It's not a car (and hopefully not an personal e-vehicle), it's like walking: you have to keep pedaling almost continuously.
+	* On the other end, people who ride regularly have almost an instinctive desire to go at the speed of traffic. Instead of finding a nice easy cadence (about the same effort as a walk -- especially in hot weather!) they push on until they are moving with the effort of a brisk run (and sweating like a hog).
+	* (something like) "perceived speed" vs actual speed:
+		* The incorrect notion that bicycles should move at the speed of traffic
+		* The incorrect notion that bicycles should move themselves
+		* The misunderstanding that the _average_ speed of a bicycle across a city is often the _fastest_ way to get around a city (typically matching or beating out both cars and transit)
+* Conan on the wheel, becomes conannegger (the two are inseperable at this point.)
+	* The wheel is like the mouse on the wheel.
+	* Mechanical drive is some weird deeply mammalian thing.
+	* The pleasure of riding a bicycle.
+	* Somehow this is related to cities.
 
 
 ## Sections:
@@ -102,9 +116,22 @@ by: Rotwang
 * Riding allows daydreaming --- as long as you are comfortable
 * But if you go out with the intention to work through a specific problem, it is a perfect time to focus on one, and can lead to clever solutions.
 * (Most of these essays were written in my head while riding)
-* https://www.theatlantic.com/culture/archive/2020/10/mary-cappello-lecture-jenny-odell-how-to-do-nothing-distraction-learning/616649/
-
-
+* draftish:
+* It takes all kinds of riders to make the bike world go round.
+	* But I'm going to recommend here that you try very long rides, not for the challenge of completeing some distance (though you can roll that in as a goal if you like) but for the opportunity to engage in a kind of clear thinking that is hard to get to in any other way.
+	* The bicycle allows you to achieve a kind of perfect blend of daydreaming and flow.
+	* Because you are physically active, and only challenged mentally a tiny bit, you'll find your mind wanders, but with a clarity of thought that you don't normally get.
+	* If you do this for hours it can become a whole other kind of thing.
+	* Go by yourself.
+	* Start with an hour long ride - ten miles - many people commute that distance to work. try it!
+	* Riding distances by yourself can be intimidating, learn to fix a flat and some basic mechanics, or sign up with better world club roadside assistance.
+	* Get a comfortable bike. Note that something that might be super comfy for a mile, like a fat-tire beach cruiser will not be comfortable for 30 or 50 miles.
+	* Sometimes if you find yourself really zoning out, it's good to put in a little sprint, or climb a hill to bring yourself back to the physical reality/challenge.
+	* But otherwise DON'T make it a physical thing. Pedal at an easy pace. If you go 30 or 50 miles you'll get a good workout anyway so don't worry about that.
+	* The only problem is there's no easy way to record your thoughts. Plan to stop every half hour or hour and write for a while. But plan an extra 20 minutes (or more) per stop for your trip. If you are like me it takes a while to write things down.
+	* Why not walking? Why not driving? Why not motorcycling?
+* See "generative mind wandering" in this (kinda all over the place) oped: https://www.nytimes.com/2024/08/31/opinion/household-labor-work-laundry-faith.html
+* And this? https://www.theatlantic.com/culture/archive/2020/10/mary-cappello-lecture-jenny-odell-how-to-do-nothing-distraction-learning/616649/
 * Mouse on the wheel -- love of mechanical pleasure here?
 	* Or maybe it goes in Riding and Thinking? A physical corollary to mental relaxation? 
 	* Or maybe it's its own essay
@@ -186,6 +213,11 @@ by: Rotwang
 * Saddles: just because it's squishy doesn't mean it will be comfortable
 * Fenders
 * Pedals
+
+### Winter riding
+* Goggles goggles goggles
+* Skinny tires?
+* Fenders (again)
 
 
 ### Bicycles are magic
@@ -312,20 +344,10 @@ by: Rotwang
 * Working on your bike totally isn't necessary. But there is a great pleasure that comes from working on your bike.
 * One, the simple mechanical pleasure of fixing things. But even if that's not your jam...
 * You also get DIRECT feedback from working on your bike. While only the most astute observer of the tachyometer will notice a change in their engine performance after changing the oil on their car, if you change your bike tires, or lube the chain, you will notice it dramatically and immediately. It's very satsifying, and makes you feel like you're getting more out of your bike.
+* When you _are_ the engine that powers your vehicle, you are _much_ more movivated to keep that vehicle tuned up --- it's pleasant to realize that with air in your tires and a lubed chain you are not working as hard!
+	* (Though sometimes you have to force yourself to pay attention: a chain can get dry and crunchy slowly enough that you never realize it is happening. Your bike might be getting a lot harder to ride, and you don't even know it! But this is when it is the most satisfying to squirt some lube on there!)
 * See the greatness of the age of mechanical things in dynohub staging
-
-
-### Winter riding
-* Goggles goggles goggles
-* Skinny tires?
-* Fenders (again)
-
-
-### Mauna Kea
-* Like the Dopesmoker of bicycle rides --- the lowest and the slowest
-* Ride Fuji: change out front chainring to a 22t 1:1? Would that do it? Test in the catskills
-* Always wanted to go to Hawaii, but didn't want to be a tourist. (Well, I AM a tourist, but of a different stripe.)
-* Description of the ride from Hilo to Mauna Kea
+	* Plug By Sound Alone? 
 
 
 ### About me
