@@ -1,5 +1,5 @@
 notes-and-todos.md
-Last modified: 2025-07-21 21:44
+Last modified: 2025-07-22 23:43
 
 # BBQ Bicycle --- Notes and Todos
 
@@ -22,6 +22,8 @@ Last modified: 2025-07-21 21:44
 	* 10 minutes to read 2000 words
 * Logo: a person riding a steel bike with a basket and a saddlebag and 1-1 gear uphill
 * Put a short paragraph at the top (of every entry?) That explains the idea and links to the TOC. And brands the concept.
+* A guide to take you from not riding a bicycle to being comfortable and confident enough to ride a bicycle around in a city while you daydream
+    * (Think of Steve)
 
 ## Promotion
 * BBQ Bicycle (not barbeque bicycle) because you can do backronyms:

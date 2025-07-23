@@ -1,5 +1,5 @@
 bbqbike-content-notes.md
-Last modified: 2025-07-21 21:49
+Last modified: 2025-07-23 00:03
 
 
 # BBQ Bicycle --- Sections and notes on content
@@ -276,12 +276,17 @@ by: Rotwang
 * Helmet agnostic --- whatever gets you on the bike
 * Swimming vs riding
 * Helmets in snowsports led to MORE deaths
+* Or the 4000 people who drown each year.
 * I don't want to get into the whole helmet debate. Just know that it is far more complicatd than you've been led to believe, and as a single example of that check out what happened to snowsports after people started wearing helmets.
 * Really, the problem with the helmet-pushers is they make the wrong thing the priority. The priority should be _riding_.
 * The health benefits of riding every day _far_ outweigh the risks of riding without a helmet.
 * So if you are hesitating to go out riding because you don't want to wear your helmet, you should just ride anyway and not worry about it.
 * Conversely, if you find you are hesitating to go ride because you don't have or can't find your helmet and are a little fearful of riding without one, you should totally get a helmet and ride.
 * Just _ride_ --- that's the priority.
+* When is it worth considering a helmet? When you have to be around cars. Cars are what kill. So if you are planning to ride a commute through a center city during rush hour every day, it might be worth wearing a helmet (I do). But if you are going for a toodle on a secluded bike path, there's probably not much need for a helmet.
+    * The rule of thumb is: 20mph. The human body is evolved to take an impact at around 20mph. (About as fast a human could reasonably go for most of human history.) If you are planning to ride over 20mph (that is, you are a professional, or spending a lot of time going down very steep hills) then maybe a helmet is in order. Or, if you might get hit by something going more than 20 mph (ie, a car), then it would be better to be wearing a helmet when that happens.
+        * This sound reasonable, except that in our current culture it is putting the responsibility for safety on the people who aren't actually doing anything dangerous. Cycling is an extremely safe activity. It's motor vehicles that are dangerous. In a perfect world, the onus would be on drivers to make the roads safe, not cyclists, and all that would be required is to limit vehicles to 20mph in cities and towns. (They would have to _actually_ go 20mph, above that speed, fatalities rapidly increase -- it's not a curve, it's a cliff.) 
+        * Meanwhile, in our current culture, pedestrians would also benefit from wearing bike helmets in towns and cities. But when was the last time someone said you should put a helmet on to go for a walk?
 
 ### Pain
 * Pain will distract you from daydreaming and thinking
