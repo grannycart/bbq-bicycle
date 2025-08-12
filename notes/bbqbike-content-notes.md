@@ -1,5 +1,5 @@
 bbqbike-content-notes.md
-Last modified: 2025-07-23 00:03
+Last modified: 2025-08-11 23:05
 
 
 # BBQ Bicycle --- Sections and notes on content
@@ -58,11 +58,22 @@ Last modified: 2025-07-23 00:03
 		* The incorrect notion that bicycles should move at the speed of traffic
 		* The incorrect notion that bicycles should move themselves
 		* The misunderstanding that the _average_ speed of a bicycle across a city is often the _fastest_ way to get around a city (typically matching or beating out both cars and transit)
+    * Our sense of cars warps how we even perceive the safety of roads:
+        * a city road might look chaotic and dangers to a car driver, but on a bicycle, with experience, you learn that in a dense city the cars aren't moving that fast
+        * or on a country road, from a car it might look like cars are driving dangerously fast, but on a bicycle (with experience) you can learn that actually that road has low traffic and lots of space to ride on.
+        * while in a suburban area, it might feel like a safe place to drive, but by bicycle you learn that there's unrelenting traffic moving at dangerous speeds with very little space to ride.
 * Conan on the wheel, becomes conannegger (the two are inseperable at this point.)
 	* The wheel is like the mouse on the wheel.
 	* Mechanical drive is some weird deeply mammalian thing.
 	* The pleasure of riding a bicycle.
 	* Somehow this is related to cities.
+* daydreaming:
+    * https://www.nytimes.com/interactive/2025/well/creativity-daydreaming-intentional-thinking.html
+    * to get to the point where you can daydream while riding your bicycle, you have to be comfortable on your bike.
+        * both physically comfortable
+        * and mentally comfortable --- not worrying about falling or being hit by a car or breaking down. A lot of this guide is about how to achieve this
+        * the idea of riding a single low speed is to help promote daydreaming: you don't have to think about gears, you are less likely to hit a spot where you have to work hard, you are unlikely to be going to fast that you have to dedicate your full concentration to the bicycle.
+        * riding on safe roads: the slow traffic of the dense city or the empty roads of the country
 
 
 ## Sections:
