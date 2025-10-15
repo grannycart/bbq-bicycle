@@ -1,10 +1,12 @@
 bbqbike-content-notes.md
-Last modified: 2025-08-11 23:05
+Last modified: 2025-10-15 17:57
 
 
 # BBQ Bicycle --- Sections and notes on content
 
 ## Ideas for things to include (not sure where yet)
+* low and slow is the way to go
+    * or, at the end of the day you want to be perfectly cooked, not burnt out.
 * not just the technical aspects of how the bike should be built, but also the _spirit_ of bbq: 
 	* sitting around drinking beer, maybe smoking a cigar (I'm not saying you SHOULD do these things while riding your bicycle, but that could COULD.)
 	* Relaxed riding, daydreaming, the freedom of mind that comes from having a simple outdoor task (bbq, riding) that doesn't take too much effort and allows your mind to wander.
