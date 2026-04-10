@@ -1,5 +1,5 @@
 bbqbike-content-notes.md
-Last modified: 2025-10-15 17:57
+Last modified: 2026-04-10 14:27
 
 
 # BBQ Bicycle --- Sections and notes on content
@@ -287,6 +287,7 @@ by: Rotwang
 
 ### Do you need a helmet?
 * Helmet agnostic --- whatever gets you on the bike
+    * (See: germs/bike-helmet-agnostic.wiki)
 * Swimming vs riding
 * Helmets in snowsports led to MORE deaths
 * Or the 4000 people who drown each year.
